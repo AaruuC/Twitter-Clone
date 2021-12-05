@@ -1,9 +1,5 @@
 # Twitter Clone Project
 
-### Collaborators: Shi Yang Zheng
-
-### Extra Credit: None
-
 ## Routes
 Accessing localhost:8000 brings you to the splash page if no one is logged in. 
 Otherwise, it redirects to the home page. There is a button on the splash page
